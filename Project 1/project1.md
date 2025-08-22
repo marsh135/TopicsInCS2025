@@ -9,18 +9,19 @@ Your game should take the player on a journey where they make choices that affec
 
 This project will serve as a review of core Python concepts you learned last year:  
 
-    •Input & output
-    •Variables & data types
-    •Conditional logic (if/elif/else)
-    •Loops (while, for)
+•	Input & output  
+•	Variables & data types  
+•	Conditional logic (if/elif/else)  
+•	Loops (while, for)
+
 Your goal is to design a fun, interactive experience that takes 5–10 minutes to play.
 
 
 **Project Requirements**
 
 Your program must:  
-	     1.	Welcome the player and ask for their name.  
-	     2.	Present choices using input and conditional statements (e.g., “Do you go left or right?”).  
+	1.	Welcome the player and ask for their name.  
+	2.	Present choices using input and conditional statements (e.g., “Do you go left or right?”).  
 	3.	Use at least one loop to handle replaying, invalid input, or repeated actions.  
 	4.	Include at least two different endings based on player choices.  
 	5.	Track at least one variable (like score, health, or items).  
@@ -37,26 +38,28 @@ Want a challenge? Add one or more of these:
 	•	A “save” mechanic (store progress in variables)  
 
 
-**Deliverables**
+**Deliverables**  
 
-	•	A Python file named: adventure_game.py  
-	•	A short README.md or a comment at the top of your file with:  
-	    •	Your name  
-	    •	A one-sentence summary of your game  
-	    •	Instructions on how to play  
+• A Python file named: FL_adventure_game.py  
+
+• A short README.md with:  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  • Your name  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   • A one-sentence summary of your game  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	• Instructions on how to play  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	• Use https://commonmark.org/help/tutorial/index.html to help with MarkDown
 
 
 **Timeline**
 
-	•	Day 1: Brainstorm and outline your story. Start coding the intro and first choices.  
-	•	Day 2: Add more branches, endings, and variables.  
-	•	Day 3: Polish, test, and turn in your project.  
+•	Day 1: Brainstorm and outline your story. Start coding the intro and first choices.  
+•	Day 2: Add more branches, endings, and variables.  
+•	Day 3: Polish, test, and turn in your project.  
 
 **Grading (20 points total)**
 
-	•	Functionality (10 pts): Program runs without errors, meets requirements.  
-	•	Creativity (5 pts): Story is engaging, fun, or clever.  
-	•	Code Quality (5 pts): Clear, readable, well-organized code (indentation, naming, comments).  
+•	Functionality (10 pts): Program runs without errors, meets requirements.  
+•	Creativity (5 pts): Story is engaging, fun, or clever.  
+•	Code Quality (5 pts): Clear, readable, well-organized code (indentation, naming, comments).  
 
 
 
