@@ -26,9 +26,9 @@ Requirements
 4. Display
 - Print a clear summary of all students, their grades, and their average.
 - Example output:
-Alice: [90, 85, 92] Average: 89.0
-Bob: [78, 81, 86] Average: 81.7
-Top Student: Alice
+  - Alice: [90, 85, 92] Average: 89.0
+  - Bob: [78, 81, 86] Average: 81.7
+  - Top Student: Alice
 ---
 5. Additional Features (Required)
 - Allow the user to remove a student or a grade.
